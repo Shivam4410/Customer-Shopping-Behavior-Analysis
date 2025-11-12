@@ -107,6 +107,7 @@ It equips organizations to **optimize marketing efforts**, **enhance customer en
 Aspiring Data Analyst | Skilled in Power BI, Python, SQL, and Excel  
 📧 [analyzer441@gmail.com](mailto:analyzer441@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shivam-77b678249/)
+🔗 [Live Dashboard](https://app.powerbi.com/groups/94fc4f3c-14de-4381-ad69-abd75d04ca18/reports/b1582cb4-d065-443b-9ea1-63d07dc74171/f04296bba1328107e5c3?experience=power-bi)
 
 ---
 
