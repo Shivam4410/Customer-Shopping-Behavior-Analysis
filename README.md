@@ -110,5 +110,5 @@ Aspiring Data Analyst | Skilled in Power BI, Python, SQL, and Excel
 
 ---
 
-> ⚡ *“Turning customer data into actionable business intelligence through modern analytics.”*
+> ⚡ *“Turning raw data into actionable business intelligence through modern analytics.”*
 
